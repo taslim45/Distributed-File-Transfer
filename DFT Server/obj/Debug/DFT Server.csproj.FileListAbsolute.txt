@@ -1,0 +1,8 @@
+F:\C#-lyndacodes\DFT Server\DFT Server\bin\Debug\DFT Server.exe.config
+F:\C#-lyndacodes\DFT Server\DFT Server\bin\Debug\DFT Server.exe
+F:\C#-lyndacodes\DFT Server\DFT Server\bin\Debug\DFT Server.pdb
+F:\C#-lyndacodes\DFT Server\DFT Server\obj\Debug\DFT Server.csprojResolveAssemblyReference.cache
+F:\C#-lyndacodes\DFT Server\DFT Server\obj\Debug\DFT_Server.Main.resources
+F:\C#-lyndacodes\DFT Server\DFT Server\obj\Debug\DFT Server.csproj.GenerateResource.Cache
+F:\C#-lyndacodes\DFT Server\DFT Server\obj\Debug\DFT Server.exe
+F:\C#-lyndacodes\DFT Server\DFT Server\obj\Debug\DFT Server.pdb
